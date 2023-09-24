@@ -4,6 +4,25 @@
   - English: Intermediary
   - Spanish: Intermediary
   - Russian: Basic
+**Academic Formation:**
+  - Bachelor's degree in information systems – Faculdade Fatef – 2023 to 2027 (studying).
+  - Data Science Technologist – FATEC – 2023 to 2026 (studying).
+  - Technical education in IT – FORTEC School and College – 2020 to 2022.
+**About Me:**
+  ✔️Areas of knowledge in web programming (CSS, JS, HTML, PHP, SQL).
+  ✔️Approved at two public colleges (fatec and vunesp).
+  ✔️I am always looking to learn and challenge myself.
+  ✔️I make presentations of my personal project Fardo for the technical course
+  ✔️I will make a presentation of my personal project Fardo for unibr college
+  ✔️Focus on the cleanest and most performant code possible.
+  ✔️I was selectively nominated for the Brazilian IT Olympiad.
+  ✔️I was considered by most of the technician's teachers as the best student of 2022
+  ✔️I was featured at the EXPOTEC technology fair in 2022 with my project Fardo.
+  ✔️I was tasked with presenting my project Fardo at the FORTEC career fair in 2022
+  ✔️I have 85 certificates in the area of technology, 44 of which are in the area of web development.
+  ✔️I have many personal projects with the aim of improving and practicing my development
+
+
 
 [Portfolio](https://adriel007.github.io/portfolio/)
 
