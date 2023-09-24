@@ -4,12 +4,14 @@
   - English: Intermediary
   - Spanish: Intermediary
   - Russian: Basic
+
 **Academic Formation:**
   - Bachelor's degree in information systems – Faculdade Fatef – 2023 to 2027 (studying).
   - Data Science Technologist – FATEC – 2023 to 2026 (studying).
   - Technical education in IT – FORTEC School and College – 2020 to 2022.
+
 **About Me:**
-  ✔️Areas of knowledge in web programming (CSS, JS, HTML, PHP, SQL).
+  ✔️Areas of knowledge in web programming (CSS, JS, HTML, PHP, SQL).<br>
   ✔️Approved at two public colleges (fatec and vunesp).
   ✔️I am always looking to learn and challenge myself.
   ✔️I make presentations of my personal project Fardo for the technical course
