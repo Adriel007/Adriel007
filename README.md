@@ -2,7 +2,7 @@
 
 **Languages:**
   - Portuguese: 🇵🇹 Native
-  - English: 🇬🇧 Intermediate
+  - English: ᴇɴ Intermediate
   - Spanish: 🇪🇸 Intermediate
   - Russian: 🇷🇺 Basic
 
