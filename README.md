@@ -1,31 +1,26 @@
-## Hello, I'm Adriel and I'm a web programmer and curious about machine learning
+## Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning.
 
 **Languages:**
   - Portuguese: Native
-  - English: Intermediary
-  - Spanish: Intermediary
+  - English: Intermediate
+  - Spanish: Basic
   - Russian: Basic
 
 **Academic Formation:**
-  - Bachelor's degree in information systems – Faculdade Fatef – 2023 to 2027 (studying).
-  - Data Science Technologist – FATEC – 2023 to 2026 (studying).
-  - Technical education in IT – FORTEC School and College – 2020 to 2022.
+  - Currently pursuing a Bachelor's degree in Information Systems at Faculdade Fatef (2023 - 2027).
+  - Studying towards a Data Science Technologist degree at FATEC (2023 - 2026).
+  - Completed a Technical Education in IT at FORTEC School and College (2020 - 2022).
 
-**About Me:**<br>
-  ✔️I am always looking to learn and challenge myself.<br>
-  ✔️I make presentations of my personal project Fardo for the technical course<br>
-  ✔️I will make a presentation of my personal project Fardo for unibr college<br>
-  ✔️I was selectively nominated for the Brazilian IT Olympiad.<br>
-  ✔️I was considered by most of the technician's teachers as the best student of 2022<br>
-  ✔️I was featured at the EXPOTEC technology fair in 2022 with my project Fardo.<br>
-  ✔️I was tasked with presenting my project Fardo at the FORTEC career fair in 2022<br>
-  ✔️I have 85 certificates in the area of technology, 44 of which are in the area of web development.<br>
-  ✔️I have many personal projects with the aim of improving and practicing my development<br>
+**About Me:**
+  - I thrive on learning and continually challenging myself to grow.
+  - My personal project, "Fardo," made waves at the EXPOTEC technology fair in 2022, contributing to the event's success.
+  - With 85 certificates, including 44 in web development, I am well-equipped to tackle technology's ever-evolving landscape.
+  - I enjoy working with technologies such as JavaScript, HTML5, CSS3, PHP, Node.js, Git, MySQL, and more to bring my personal projects to life.
 
-[Portfolio](https://adriel007.github.io/portfolio/)
+[Explore My Portfolio](https://adriel007.github.io/portfolio/)
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -37,7 +32,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-  
+
   ##
  
 <div> 
