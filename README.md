@@ -25,7 +25,7 @@
   ✔️I have many personal projects with the aim of improving and practicing my development<br>
 
 <div>
-  <ul style="list-style-type: ✔️">
+  <ul style="list-style-type: '✔️'">
     <li>test</li>
     <li>test</li>
   </ul>
