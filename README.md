@@ -1,11 +1,9 @@
 ## Hello, I'm Adriel, I live in Brazil and I'm a web programmer and curious about machine learning
-<h2>Languages:</h2>
-<ul>
-  <li>Portuguese: Native</li>
-  <li>English: Intermediary</li>
-  <li>Spanish: Intermediary</li>
-  <li>Russian: Basic</li>
-</ul>
+**Languages:**
+  - Portuguese: Native
+  - English: Intermediary
+  - Spanish: Intermediary
+  - Russian: Basic
 
 <h2>[Portfolio](https://adriel007.github.io/portfolio/)</h2>
 
