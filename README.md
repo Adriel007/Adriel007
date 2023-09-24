@@ -3,7 +3,7 @@
 **Languages:**
   - Portuguese: Native
   - English: Intermediate
-  - Spanish: Basic
+  - Spanish: Intermediate
   - Russian: Basic
 
 **Academic Formation:**
