@@ -24,7 +24,12 @@
   ✔️I have 85 certificates in the area of technology, 44 of which are in the area of web development.<br>
   ✔️I have many personal projects with the aim of improving and practicing my development<br>
 
-
+<div>
+  <ul style="list-style-type: ✔️">
+    <li>test</li>
+    <li>test</li>
+  </ul>
+</div>
 
 [Portfolio](https://adriel007.github.io/portfolio/)
 
