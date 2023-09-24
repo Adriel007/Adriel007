@@ -1,6 +1,6 @@
 ## Hello, I'm Adriel, I live in Brazil and I'm a web programmer and curious about machine learning
 
-**[Portfolio]**(https://adriel007.github.io/portfolio/)
+[Portfolio](https://adriel007.github.io/portfolio/)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
