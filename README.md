@@ -5,7 +5,7 @@
   - Spanish: Intermediary
   - Russian: Basic
 
-<h2>[Portfolio](https://adriel007.github.io/portfolio/)</h2>
+[Portfolio](https://adriel007.github.io/portfolio/)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
