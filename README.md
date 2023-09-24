@@ -1,10 +1,10 @@
-## Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning.
+## 👋 Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning.
 
 **Languages:**
-  - Portuguese: Native
-  - English: Intermediate
-  - Spanish: Intermediate
-  - Russian: Basic
+  - Portuguese: 🇵🇹 Native
+  - English: 🇬🇧 Intermediate
+  - Spanish: 🇪🇸 Intermediate
+  - Russian: 🇷🇺 Basic
 
 **Academic Formation:**
   - Currently pursuing a Bachelor's degree in Information Systems at Faculdade Fatef (2023 - 2027).
@@ -12,10 +12,10 @@
   - Completed a Technical Education in IT at FORTEC School and College (2020 - 2022).
 
 **About Me:**
-  - I thrive on learning and continually challenging myself to grow.
-  - My personal project, "Fardo," made waves at the EXPOTEC technology fair in 2022, contributing to the event's success.
-  - With 85 certificates, including 44 in web development, I am well-equipped to tackle technology's ever-evolving landscape.
-  - I enjoy working with technologies such as JavaScript, HTML5, CSS3, PHP, Node.js, Git, MySQL, and more to bring my personal projects to life.
+  - 🚀 I thrive on learning and continually challenging myself to grow.
+  - 🌟 My personal project, "Fardo," made waves at the EXPOTEC technology fair in 2022, contributing to the event's success.
+  - 🎓 With 85 certificates, including 44 in web development, I am well-equipped to tackle technology's ever-evolving landscape.
+  - 💻 I enjoy working with technologies such as JavaScript, HTML5, CSS3, PHP, Node.js, Git, MySQL, and more to bring my personal projects to life.
 
 [Explore My Portfolio](https://adriel007.github.io/portfolio/)
 
