@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning.
 
 **Languages:**
-  - Portuguese: 🇵🇹 Native
-  - English: ᴇɴ Intermediate
+  - Portuguese: 🇧🇷 Native
+  - English: 🇺🇸 Intermediate
   - Spanish: 🇪🇸 Intermediate
   - Russian: 🇷🇺 Basic
 
