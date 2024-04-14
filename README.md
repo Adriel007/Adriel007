@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning.
+## 👋 Hello, I'm Adriel, a passionate web programmer with a curiosity for machine learning and cyber security.
 
 **Languages:**
   - Portuguese: 🇧🇷 Native
